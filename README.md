@@ -439,8 +439,9 @@ A sanity check in the notebook confirms that SHAP values plus the base value rep
 
 ## 12. Author and License
 
-**Author:** [Your Name]
-**Contact:** [your email or LinkedIn]
+**Author:** Muhammad Hamza
+**Email:** [hamzza07xpro@gmail.com](mailto:hamzza07xpro@gmail.com)
+**LinkedIn:** [linkedin.com/in/hamzza07x](https://www.linkedin.com/in/hamzza07x/)
 **License:** [e.g. MIT]
 
 Data sources: books.toscrape.com (practice site), UCI Machine Learning Repository (Wholesale Customers), and the Mauna Loa CO2 record bundled with `statsmodels`.
