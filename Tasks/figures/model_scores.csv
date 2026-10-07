@@ -1,0 +1,5 @@
+Model,Forecast type,MAE (ppm),RMSE (ppm),MAPE (%)
+Seasonal naive (baseline),Multi-step,1.314,1.374,0.355
+SARIMA,"Multi-step, with 95% CI",0.357,0.431,0.096
+SARIMA,One-step-ahead,0.21,0.272,0.057
+Gradient Boosting,One-step-ahead,0.316,0.417,0.085

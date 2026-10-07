@@ -1,0 +1,9 @@
+feature,mean_abs_shap,share_pct
+YearlyChange_lag1,0.2167,40.9
+YearlyChange_lag12,0.0938,17.7
+YearlyChange_avg6,0.0841,15.9
+YearlyChange_lag2,0.0524,9.9
+YearlyChange_lag3,0.0439,8.3
+Momentum_lag1,0.0227,4.3
+Month_sin,0.0109,2.1
+Month_cos,0.0053,1.0
